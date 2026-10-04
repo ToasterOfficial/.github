@@ -6,8 +6,6 @@ Toaster is an upcoming social platform created by @camcookie876.
 ## 🌐 Project
 
 * **Website:** [Toaster Official Website](https://ToasterOfficial.github.io/)
-* **Discussions:** [Discussions on Github](https://github.com/orgs/ToasterOfficial/discussions/)
-* **Docs:** [Docs on Github](https://github.com/ToasterOfficial/docs/wiki) | [Docs on Website]([https://github.com/ToasterOfficial/docs/wiki](https://toasterofficial.github.io/docs/)) 
 
 ---
 ## 📂 Releases
